@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alina-Mk
+- 👋 Hi, I’m @alina-mk
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 
